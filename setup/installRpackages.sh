@@ -1,0 +1,11 @@
+R -e "install.packages('ggplot2', repos='http://cran.us.r-project.org')"
+R -e "install.packages('stringr', repos='http://cran.us.r-project.org')"
+R -e "install.packages('slam', repos='http://cran.us.r-project.org')"
+R -e "install.packages('rjson', repos='http://cran.us.r-project.org')"
+R -e "install.packages('lattice', repos='http://cran.us.r-project.org')"
+R -e "install.packages('RSJSONIO, repos='http://cran.us.r-project.org')"
+R -e "install.packages('data.table', repos='http://cran.us.r-project.org')"
+R -e "install.packages('igraph', repos='http://cran.us.r-project.org')"
+R -e "install.packages('TraMineR', repos='http://cran.us.r-project.org')"
+R -e "install.packages('dtw', repos='http://cran.us.r-project.org')"
+
